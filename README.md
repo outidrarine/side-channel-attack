@@ -1,4 +1,4 @@
-# Side channel attack - Time attack
+# Side channel attack - Time attack  <img alt="" src="https://img.shields.io/github/repo-size/outidrarine/side-channel-attack.svg">
 
 A build from scratch simulation for time attack on RSA altgorithm using python
 
